@@ -1,2 +1,2 @@
 # webapi-controllers-template
-Template project for creating .NET Web Api with Controllers
+Template Project for Web Api with Controllers
